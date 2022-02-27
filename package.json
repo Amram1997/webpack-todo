@@ -1,0 +1,24 @@
+{
+  "name": "webpacktodo",
+  "version": "1.0.0",
+  "description": "\"learn webpack\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amram1997/webpack-todo.git"
+  },
+  "keywords": [
+    "js",
+    "javaScript",
+    "webpack"
+  ],
+  "author": "Amram <amramananyan9@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amram1997/webpack-todo/issues"
+  },
+  "homepage": "https://github.com/Amram1997/webpack-todo#readme"
+}
