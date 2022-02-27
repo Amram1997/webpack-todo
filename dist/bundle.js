@@ -1,0 +1,1 @@
+(()=>{"use strict";const o=document.getElementById("addTodo");console.log(o);const e=document.getElementById("inputTodo");o.addEventListener("click",(function(){console.log(function(o){let e=o.value;return console.log(e),e}(e)),console.log("hello")}))})();

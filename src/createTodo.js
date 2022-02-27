@@ -1,6 +1,5 @@
-const inputValue = document.getElementById("inputTodo");
-
-function getValue(value) {
+export default function getValue(value) {
   let todo = value.value;
+  console.log(todo);
   return todo;
 }

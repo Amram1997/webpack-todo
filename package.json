@@ -4,7 +4,8 @@
   "description": "\"learn webpack\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"webpack --mode production"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/Amram1997/webpack-todo/issues"
   },
-  "homepage": "https://github.com/Amram1997/webpack-todo#readme"
+  "homepage": "https://github.com/Amram1997/webpack-todo#readme",
+  "devDependencies": {
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  }
 }
