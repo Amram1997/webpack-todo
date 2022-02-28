@@ -1,1 +1,0 @@
-(()=>{"use strict";const e=document.getElementById("addTodo"),t=document.getElementById("inputTodo");e.addEventListener("click",(function(){console.log(t.value)}))})();
