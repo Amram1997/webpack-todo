@@ -1,10 +1,10 @@
 import getValue from "./createTodo";
-const addTodo1 = document.getElementById("addTodo");
-console.log(addTodo1);
+import "./styles/style.css";
+const addTodo = document.getElementById("addTodo");
 const inputValue = document.getElementById("inputTodo");
+
 function setTodo() {
   console.log(getValue(inputValue));
-  console.log("hello");
 }
 
-addTodo1.addEventListener("click", setTodo);
+addTodo.addEventListener("click", setTodo);

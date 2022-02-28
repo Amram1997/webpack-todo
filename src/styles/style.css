@@ -1,0 +1,31 @@
+/* 
+delete #545454
+line bottom #888888
+*/
+.container {
+  max-width: 700px;
+  min-height: 300px;
+  margin-top: 2rem;
+  margin: 0 auto;
+  background-color: #2d2d2d;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  color: #66dbf9;
+  font-size: 55px;
+}
+
+.add-button {
+  background-color: #137be4;
+  color: #fff;
+}
+.head-todo {
+}
+
+.input-todo {
+  width: 350px;
+  height: 50px;
+  margin-left: 100px;
+}
